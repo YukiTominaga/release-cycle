@@ -1,3 +1,4 @@
+// feature/#2での変更: 1
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
