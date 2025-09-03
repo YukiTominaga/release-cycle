@@ -1,3 +1,5 @@
+// feature/#1での変更: 1
+// feature/#1での変更: 2
 import Image from "next/image";
 
 export default function Home() {
